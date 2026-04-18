@@ -1,4 +1,3 @@
-
 ## 💫 Hi! I'm Shreya Roy
 
 I am focused on improving my coding skills while strengthening my foundation in data structures and algorithms. I enjoy collaborating on meaningful tech projects and solving challenging problems. My core expertise includes C++, Java, SQL, and basic system design, and I love turning ideas into simple, efficient, and functional solutions.
@@ -13,6 +12,7 @@ I am focused on improving my coding skills while strengthening my foundation in 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+---
 
 ## 💻 Tech Stack
 
@@ -27,20 +27,30 @@ I am focused on improving my coding skills while strengthening my foundation in 
 
 ---
 
-## 📊 GitHub Overview
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-roy1&theme=github_dark&show_icons=true&hide_border=true" />
-<
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-roy1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-roy1&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🧠 Top Languages
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-roy1&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-roy1&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-roy1&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+## ✨ Quote
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-roy1&theme=github-dark&hide_border=true" />
+  <i>"Code. Learn. Improve. Repeat."</i>
 </p>
+
+---
