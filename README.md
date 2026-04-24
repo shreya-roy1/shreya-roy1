@@ -1,6 +1,6 @@
 <h1 align="center"> <b>💫 Hi! I'm Shreya Roy </b></h1>
 <br>
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/55943662-e9ed-4fb1-8c6d-115afd0d4b63" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/76fe184f-832b-4708-a01b-0bd30cd64e49" />
 <br>
 I am focused on improving my coding skills while strengthening my foundation in data structures and algorithms. I enjoy collaborating on meaningful tech projects and solving challenging problems. My core expertise includes C++, Java, SQL, and basic system design, and I love turning ideas into simple, efficient, and functional solutions.
 
