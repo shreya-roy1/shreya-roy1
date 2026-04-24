@@ -31,11 +31,11 @@ I am focused on improving my coding skills while strengthening my foundation in 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=shreya-roy1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-roy1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-roy1&layout=donut&theme=tokyonight" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-roy1&layout=donut&theme=tokyonight&hide_border=true" /> 
 </p>
 
 ---
