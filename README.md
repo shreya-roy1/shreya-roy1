@@ -35,7 +35,7 @@ I am focused on improving my coding skills while strengthening my foundation in 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreya-roy1&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" height="165" hide_border=true /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-roy1&hide_border=true&theme=tokyonight" width=400/>
+  <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=tokyonight&hide_border=true" width="400"/>
 
 </p>
 
