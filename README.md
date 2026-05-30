@@ -45,14 +45,9 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreya-roy1&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" height="165" hide_border=true /><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
-  <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=tokyonight&hide_border=true" width="400"/>
-
-</p>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
 
 ---
 
@@ -60,12 +55,5 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 <div align="center">
   <img src="https://raw.githubusercontent.com/shreya-roy1/shreya-roy1/output/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
-
----
-
-## ✨ Quote
-<p align="center">
-  <i>"Code. Learn. Improve. Repeat."</i>
-</p>
 
 ---
