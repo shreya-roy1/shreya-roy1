@@ -45,6 +45,10 @@ If you are looking for a developer who understands both interface engineering an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-roy1&theme=tokyo-night&hide_border=true" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shreya-roy1/shreya-roy1/output/github-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
 ---
 
 ## ✨ Quote
