@@ -2,9 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
-
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/76fe184f-832b-4708-a01b-0bd30cd64e49" />
-<br><br>
 I build robust web applications and intelligent systems that solve complex problems. I focus on writing clean, scalable code and bridging the gap between intricate AI data and seamless user experiences. Whether it's developing real-time threat detection tools or architecting multi-agent platforms, I thrive on taking high-level technical challenges from concept to production.
 
 ---
@@ -45,9 +42,14 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreya-roy1&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" height="165" hide_border=true /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
+  <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=tokyonight&hide_border=true" width="400"/>
+
+</p>
 
 ---
 
