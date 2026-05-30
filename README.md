@@ -1,11 +1,10 @@
-<h1 align="center"> <b>💫 Hi! I'm Shreya Roy </b></h1>
+<h1 align="center"> <b>💫 Hey! I'm Shreya Roy </b></h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
-> **Full-Stack Engineer & AI Systems Builder**
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/76fe184f-832b-4708-a01b-0bd30cd64e49" />
-<br />
+<br><br>
 I build robust web applications and intelligent systems that solve complex problems. I focus on writing clean, scalable code and bridging the gap between intricate AI data and seamless user experiences. Whether it's developing real-time threat detection tools or architecting multi-agent platforms, I thrive on taking high-level technical challenges from concept to production.
 
 ---
@@ -70,7 +69,3 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 </p>
 
 ---
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
