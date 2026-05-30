@@ -1,4 +1,7 @@
 <h1 align="center"> <b>💫 Hi! I'm Shreya Roy </b></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+</div>
 
 > **Full-Stack Engineer & AI Systems Builder**
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/76fe184f-832b-4708-a01b-0bd30cd64e49" />
@@ -28,6 +31,20 @@ If you are looking for a developer who understands both interface engineering an
 
 ---
 
+### 🚀 Featured Architecture & Projects
+*(Note: I actively maintain clean, well-documented codebases. Check out the repos below for architecture diagrams and setup instructions.)*
+
+#### 🎧 [echomind-audio-ai](https://github.com/shreya-roy1) 
+An AI-powered acoustic surveillance platform designed for smart cities. It analyzes ambient audio in real-time to detect hidden threats (like breaking glass or human distress) utilizing a specialized multi-agent processing architecture. 
+
+#### 🛡️ [phishing-sentinel](https://github.com/shreya-roy1)
+A real-time cybersecurity tool built to detect zero-day phishing attacks. Engineered with a cross-platform API architecture and machine learning-driven DOM analysis to intercept web threats before execution.
+
+#### 📈 [algorithmic-trading-optimizer](https://github.com/shreya-roy1)
+Implementation of dynamic programming and randomized quicksort logic to optimize profit-maximization code and evaluate financial trading systems safely.
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
@@ -41,10 +58,6 @@ If you are looking for a developer who understands both interface engineering an
 ---
 
 ## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-roy1&theme=tokyo-night&hide_border=true" />
-</p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/shreya-roy1/shreya-roy1/output/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
@@ -57,3 +70,7 @@ If you are looking for a developer who understands both interface engineering an
 </p>
 
 ---
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
