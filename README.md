@@ -46,7 +46,6 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreya-roy1&theme=tokyonight&utcOffset=8" width="350"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
