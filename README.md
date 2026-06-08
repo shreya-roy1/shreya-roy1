@@ -50,7 +50,6 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
   <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=tokyonight&hide_border=true&v=1" width="400"/>
-
 </p>
 
 ---
