@@ -60,3 +60,7 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 </div>
 
 ---
+
+## Qoute
+
+---
