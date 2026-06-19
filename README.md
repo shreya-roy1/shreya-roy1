@@ -1,4 +1,4 @@
-<h1 align="center"> <b>💫 Hey! I'm Shreya Roy </b></h1>
+<h1 align="center"> <b> 💫 Hey! I'm Shreya Roy </b></h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FAFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
@@ -58,9 +58,5 @@ Implementation of dynamic programming and randomized quicksort logic to optimize
 <div align="center">
   <img src="https://raw.githubusercontent.com/shreya-roy1/shreya-roy1/output/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
-
----
-
-## Qoute
 
 ---
