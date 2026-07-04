@@ -38,9 +38,6 @@ An AI-powered acoustic surveillance platform designed for smart cities. It analy
 #### 🛡️ [phishing-sentinel](https://github.com/shreya-roy1)
 A real-time cybersecurity tool built to detect zero-day phishing attacks. Engineered with a cross-platform API architecture and machine learning-driven DOM analysis to intercept web threats before execution.
 
-#### 📈 [algorithmic-trading-optimizer](https://github.com/shreya-roy1)
-Implementation of dynamic programming and randomized quicksort logic to optimize profit-maximization code and evaluate financial trading systems safely.
-
 ---
 
 ## 📊 GitHub Stats
