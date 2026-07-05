@@ -29,7 +29,7 @@ If you are looking for a developer who understands both interface engineering an
 
 ---
 
-### 🚀 Featured Architecture & Projects
+## 🚀 Featured Architecture & Projects
 *(Note: I actively maintain clean, well-documented codebases. Check out the repos below for architecture diagrams and setup instructions.)*
 
 #### 🎧 [echomind-audio-ai](https://github.com/shreya-roy1) 
