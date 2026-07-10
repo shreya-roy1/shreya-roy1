@@ -48,8 +48,8 @@ A real-time cybersecurity tool built to detect zero-day phishing attacks. Engine
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreya-roy1&theme=tokyonight&utcOffset=8" width="350"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya-roy1&theme=tokyonight" hide_border=true /><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=300/>
-  <img src="https://streak-stats.demolab.com?user=shreya-roy1&theme=tokyonight&hide_border=true&v=1" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" hide_border=true width=280/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreya-roy1&theme=tokyonight&hide_border=true" width="420"/>
 </p>
 
 ---
