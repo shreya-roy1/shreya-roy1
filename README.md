@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FAFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+AI+Architectures;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
+
 I build robust web applications and intelligent systems that solve complex problems. I focus on writing clean, scalable code and bridging the gap between intricate AI data and seamless user experiences. Whether it's developing real-time threat detection tools or architecting multi-agent platforms, I thrive on taking high-level technical challenges from concept to production.
 
 ---
