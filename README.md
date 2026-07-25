@@ -46,12 +46,10 @@ A real-time cybersecurity tool built to detect zero-day phishing attacks. Engine
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" /><br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" width="280" />
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" hide_border=true /><br>
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="350"/>
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" hide_border=true /><br>
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="280" hide_border=true />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya-roy1&theme=tokyonight" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya-roy1&theme=tokyonight" width="350" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="350"/><br>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" hide_border=true width="300"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shreya-roy1&theme=tokyonight&hide_border=true" width="420"/>
 </p>
 
