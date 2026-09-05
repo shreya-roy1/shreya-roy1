@@ -55,6 +55,14 @@ A real-time cybersecurity tool built to detect zero-day phishing attacks. Engine
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./assets/trophy.svg" alt="Trophies" />
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">

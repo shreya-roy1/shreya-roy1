@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110">
+  <style>
+    .trophy-card { fill: #1a1b27; stroke: #3d59a1; stroke-width: 1.5; rx: 6px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; fill: #70a5fd; font-weight: 600; text-anchor: middle; }
+    .rank { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 26px; fill: #e0af68; font-weight: 700; text-anchor: middle; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; fill: #38bdae; text-anchor: middle; }
+    .trophy-icon { fill: #bf91f3; }
+  </style>
+
+  <!-- Card 1: Commits -->
+  <g transform="translate(10, 5)">
+    <rect class="trophy-card" width="125" height="100" />
+    <text class="title" x="62.5" y="24">COMMITS</text>
+    <path class="trophy-icon" transform="translate(48, 32) scale(0.05)" d="M400 0H112C85.5 0 64 21.5 64 48v48c0 62.7 44.5 115 104.4 126.3C185.7 254.7 232 291.6 232 304v48h-40c-17.7 0-32 14.3-32 32s14.3 32 32 32h128c17.7 0 32-14.3 32-32s-14.3-32-32-32h-40v-48c0-12.4 46.3-49.3 63.6-81.7C403.5 211 448 158.7 448 96V48c0-26.5-21.5-48-48-48z" />
+    <text class="rank" x="62.5" y="68">A</text>
+    <text class="subtitle" x="62.5" y="88">GitHub Trophy</text>
+  </g>
+
+  <!-- Card 2: Pull Requests -->
+  <g transform="translate(148, 5)">
+    <rect class="trophy-card" width="125" height="100" />
+    <text class="title" x="62.5" y="24">PULL REQUESTS</text>
+    <text class="rank" x="62.5" y="68">A</text>
+    <text class="subtitle" x="62.5" y="88">GitHub Trophy</text>
+  </g>
+
+  <!-- Card 3: Reviews -->
+  <g transform="translate(286, 5)">
+    <rect class="trophy-card" width="125" height="100" />
+    <text class="title" x="62.5" y="24">REVIEWS</text>
+    <text class="rank" x="62.5" y="68">B</text>
+    <text class="subtitle" x="62.5" y="88">GitHub Trophy</text>
+  </g>
+
+  <!-- Card 4: Issues -->
+  <g transform="translate(424, 5)">
+    <rect class="trophy-card" width="125" height="100" />
+    <text class="title" x="62.5" y="24">ISSUES</text>
+    <text class="rank" x="62.5" y="68">C</text>
+    <text class="subtitle" x="62.5" y="88">GitHub Trophy</text>
+  </g>
+
+  <!-- Card 5: Experience -->
+  <g transform="translate(562, 5)">
+    <rect class="trophy-card" width="125" height="100" />
+    <text class="title" x="62.5" y="24">EXPERIENCE</text>
+    <text class="rank" x="62.5" y="68">S</text>
+    <text class="subtitle" x="62.5" y="88">GitHub Trophy</text>
+  </g>
+</svg>
