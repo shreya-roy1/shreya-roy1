@@ -33,13 +33,13 @@ If you are looking for a developer who understands both interface engineering an
 ## 🚀 Featured Architecture & Projects
 *(Note: I actively maintain clean, well-documented codebases. Check out the repos below for architecture diagrams and setup instructions.)*
 
-#### 🎧 [echomind-audio-ai](https://github.com/shreya-roy1) 
+#### 🎧 [echomind-audio-ai](https://github.com/shreya-roy1/EchoMind) 
 An AI-powered acoustic surveillance platform designed for smart cities. It analyzes ambient audio in real-time to detect hidden threats (like breaking glass or human distress) utilizing a specialized multi-agent processing architecture. 
 
 #### 🎨 [air-drawer](https://github.com/shreya-roy1/air-drawer)
 Application of kinematic coordinate mapping and real-time matrix transformations to translate webcam video feeds into a low-latency virtual drawing canvas.
 
-#### 🛡️ [phishing-sentinel](https://github.com/shreya-roy1)
+#### 🛡️ [phishing-sentinel](https://github.com/shreya-roy1/Phishing-Sentinel)
 A real-time cybersecurity tool built to detect zero-day phishing attacks. Engineered with a cross-platform API architecture and machine learning-driven DOM analysis to intercept web threats before execution.
 
 ---
